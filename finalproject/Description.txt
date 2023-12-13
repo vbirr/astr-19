@@ -1,0 +1,8 @@
+This is the final project for ASTR 19 at UCSC. 
+
+We went through the sep tutorial and went ahead and applied that to an image from the hubble telescope. 
+From there, we used sep to detect the objects in the image. We found their fluxes and  calculated the mean, median, and standard deviation of these fluxes. 
+
+Finally, we used two more images to creat a 3-color false image using RGB. 
+
+Thanks to the profs and TA for the class :D
